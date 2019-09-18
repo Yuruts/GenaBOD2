@@ -1,3 +1,0 @@
-pyTelegramBotAPI
-opencv-python-headless
-requests
